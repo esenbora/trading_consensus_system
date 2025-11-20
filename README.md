@@ -78,7 +78,7 @@ Early exit occurs when consensus confidence ≥ 70%
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/trading_consensus_system.git
+git clone https://github.com/esenbora/trading_consensus_system.git
 cd trading_consensus_system
 
 # Create virtual environment
@@ -380,8 +380,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions, suggestions, or collaboration:
-- GitHub Issues: [Open an issue](https://github.com/yourusername/trading_consensus_system/issues)
-- Email: your.email@example.com
+- GitHub Issues: [Open an issue](https://github.com/esenbora/trading_consensus_system/issues)
+- Twitter/X: [@esenbora](https://twitter.com/esenbora)
 
 ---
 
