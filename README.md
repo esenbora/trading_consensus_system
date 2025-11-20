@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent Trading Consensus System
+# Multi-Agent Trading Consensus System
 
 > An AI-powered trading decision platform that uses multiple specialized agents to reach consensus through debate and collective intelligence.
 
@@ -6,13 +6,13 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)](https://flask.palletsprojects.com/)
 
-## ⚠️ Important Disclaimer
+## Important Disclaimer
 
 **This system is for educational and research purposes only. It does NOT provide financial advice. Always conduct your own research and consult with licensed financial advisors before making any trading decisions. Trading involves substantial risk of loss.**
 
 ---
 
-## 📖 Overview
+## Overview
 
 The **Multi-Agent Trading Consensus System** orchestrates multiple AI agents with different analytical perspectives to generate trading signals through a debate-based consensus mechanism. Instead of relying on a single model, the system leverages collective intelligence to make more robust trading decisions.
 
@@ -28,7 +28,7 @@ The **Multi-Agent Trading Consensus System** orchestrates multiple AI agents wit
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Agent System
 
@@ -66,7 +66,7 @@ Early exit occurs when consensus confidence ≥ 70%
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -142,7 +142,7 @@ curl -X POST http://localhost:5000/analyze \
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 ```json
 {
@@ -180,9 +180,9 @@ curl -X POST http://localhost:5000/analyze \
 
 ---
 
-## 🔧 Current Implementation Status
+## Current Implementation Status
 
-### ✅ Fully Implemented
+### Fully Implemented
 
 - Multi-agent orchestration system
 - Debate consensus mechanism
@@ -192,7 +192,7 @@ curl -X POST http://localhost:5000/analyze \
 - Error handling and graceful degradation
 - Configuration management
 
-### ⚠️ Mock Implementations (Require Setup)
+### Mock Implementations (Require Setup)
 
 **Data Feed** (`data/feed.py`)
 - Currently returns simulated market data
@@ -219,7 +219,7 @@ curl -X POST http://localhost:5000/analyze \
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Run verification script
@@ -234,7 +234,7 @@ print(result)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 trading_consensus_system/
@@ -265,7 +265,7 @@ trading_consensus_system/
 
 ---
 
-## 🔑 API Endpoints
+## API Endpoints
 
 ### `GET /status`
 Check system health
@@ -301,7 +301,7 @@ Trigger consensus analysis for a ticker
 
 ---
 
-## ⚙️ Configuration Options
+## Configuration Options
 
 Edit `config.py` to customize:
 
@@ -313,7 +313,7 @@ Edit `config.py` to customize:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions and collaborations are welcome! Areas for improvement:
 
@@ -329,13 +329,13 @@ Please open an issue or submit a pull request.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with [LangChain](https://www.langchain.com/)
 - Powered by OpenAI, Google, and xAI models
@@ -344,7 +344,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions, suggestions, or collaboration:
 - GitHub Issues: [Open an issue](https://github.com/esenbora/trading_consensus_system/issues)
@@ -352,7 +352,7 @@ For questions, suggestions, or collaboration:
 
 ---
 
-## ⚡ Quick Tips
+## Quick Tips
 
 1. **Start with mock data**: Test the system without API keys to understand the flow
 2. **API costs**: Be aware of API usage costs, especially for GPT-4 and Gemini
